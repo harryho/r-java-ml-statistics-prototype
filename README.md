@@ -1,4 +1,4 @@
-# demo-r-java-statistics-prototype
+# demo-r-java-ml-statistics-prototype
 
 R Statistics Demo System 
 
