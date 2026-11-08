@@ -1,6 +1,6 @@
 # demo-r-java-ml-statistics-prototype
 
-R Statistics Demo System 
+R ML (Machine Learning) Statistics Demo System 
 
 1. Install Java 
 
